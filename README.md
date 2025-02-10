@@ -1,0 +1,1 @@
+This example demonstrates a common SQL error involving incorrect usage of aggregate functions (like COUNT, AVG, SUM, etc.) without a corresponding GROUP BY clause. This frequently leads to unexpected and often incorrect results. The solution showcases how to correctly structure the query either by removing aggregates or adding a GROUP BY clause.
